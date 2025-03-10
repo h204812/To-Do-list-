@@ -25,3 +25,11 @@ A simple and efficient To-Do List application built with React and Vite. This ap
 1. Clone the repository:
    ```sh
    git clone https://github.com/h204812/todo-list.git
+2. Navigate to the project folder:
+   cd todo-list
+3. Install dependencies:
+   npm install
+4. Run the development server:
+   npm run dev
+
+
