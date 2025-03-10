@@ -9,11 +9,11 @@ A simple and efficient To-Do List application built with React and Vite. This ap
 - Maintain an organized workflow efficiently.
 
 ## Features
-✔ Add new tasks easily.  
-✔ Set priorities to manage tasks effectively.  
-✔ Edit and update tasks as needed.  
-✔ Remove completed tasks.  
-✔ Smooth and fast UI powered by Vite.  
+ Add new tasks easily.  
+ Set priorities to manage tasks effectively.  
+ Edit and update tasks as needed.  
+ Remove completed tasks.  
+ Smooth and fast UI powered by Vite.  
 
 ## Technologies Used
 - **React** (for UI components)  
