@@ -1,0 +1,23 @@
+.Header{
+    width:auto;
+    display: flex;
+    flex-direction: column;   
+    gap: 10px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.Header .First{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.Header .First .Heading{
+    font-size: 5rem;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.Header .Second{
+  margin-left: 20%;
+  font-size: 1.5rem;
+  color: #17a2b8;
+}

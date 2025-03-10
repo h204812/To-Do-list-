@@ -1,0 +1,17 @@
+.Middle{
+    display: inline-block;
+    margin-left: 30%;
+}
+.Middle .btnSizeadd{
+   height: 50px;
+   width: 100px;
+   margin-right: 25px;
+   margin-top : 50px;
+   margin-left: 300px;
+  }
+  .Middle .btnSizedel{
+    height: 50px;
+    width: 100px;
+    margin-left: 25px;
+    margin-top : 50px;
+   }
